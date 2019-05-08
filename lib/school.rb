@@ -1,6 +1,6 @@
 class School
 
-  def initilize(school)
+  def initilize(name)
 
   end
 end
