@@ -1,8 +1,6 @@
 class School
 
-  def initilize(name)
-    @name = name
+  def initilize(school)
+
   end
 end
-
-school = School.new(name)
